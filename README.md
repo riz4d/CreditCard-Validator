@@ -15,6 +15,22 @@ The Luhn algorithm, also known as the “modulus 10” or “mod 10” algorithm
 - Validates credit card numbers using the Luhn algorithm.
 - Fetches credit card number data from datasets
 
+### Requirements
+- Python 3.11.6
+- pandas
+
+### Usage
+Install Dependencies with pip
+```
+pip install -r requirements.txt
+```
+
+run the script with
+
+```
+python3 run.py
+```
+
 here's a table that includes the CC issuing authority and IIN (Issuer Identification Number) ranges for the credit card networks:
 
 | Issuing Authority                                    | IIN Ranges                            |
