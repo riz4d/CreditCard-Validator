@@ -18,7 +18,7 @@ The Luhn algorithm, also known as the “modulus 10” or “mod 10” algorithm
 
 ### Issues 
 
-[Submit Issues](https://github.com/riz4d/CreditCard-Validator/issues)
+Submit Issues [Here](https://github.com/riz4d/CreditCard-Validator/issues)
 
 ### License
 
