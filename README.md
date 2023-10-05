@@ -69,11 +69,8 @@ here's a table that includes the CC issuing authority and IIN (Issuer Identifica
 | Visa                                               | 4                                    |
 | Verve                                              | 506099–506198, 650002–650027         |
 
-### Issues 
-
-Submit Issues [Here](https://github.com/riz4d/CreditCard-Validator/issues)
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under [MIT License](LICENSE).
 
