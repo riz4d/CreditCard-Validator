@@ -14,3 +14,13 @@ The Luhn algorithm, also known as the “modulus 10” or “mod 10” algorithm
 ### Features
 - Validates credit card numbers using the Luhn algorithm.
 - Fetches credit card number data from datasets
+
+
+### Issues 
+
+[Submit Issues](https://github.com/riz4d/CreditCard-Validator/issues)
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
+
